@@ -30,6 +30,6 @@ Tools: Android Studio, Git, VS Code , IntelliJ
 
 Let's Connect
 
-📍 Patiala, Punjab, India
+📍 Cheeka,Haryana, India
 📧 [mhk17garg@gmail.com](mailto:mhk17garg@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/iam-mehak)
