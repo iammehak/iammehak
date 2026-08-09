@@ -24,9 +24,9 @@ Provide a simple, clear interface for use during time-sensitive situations
 
 **Skills**
 
-Languages: Kotlin, Python, SQL
-Web: HTML, CSS
-Tools: Android Studio, Git, VS Code , IntelliJ
+**Languages:** Kotlin, Python, SQL
+**Web:** HTML, CSS
+**Tools:** Android Studio, Git, VS Code , IntelliJ
 
 **Let's Connect**
 
