@@ -38,16 +38,10 @@ A healthcare navigation Android app for Patiala, designed to help people find th
 
 ---
 
-## GitHub Stats
-
-![Mehak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iammehak&show_icons=true&theme=default&hide_border=true)
-
----
-
 ## Let's Connect
 
 📍 Cheeka, Haryana, India
 
-📧 mhk17garg@gmail.com
+📧 [mhk17garg@gmail.com](mailto:mhk17garg@gmail.com)
 
 🔗 [LinkedIn](https://www.linkedin.com/in/iam-mehak)
